@@ -1,0 +1,9 @@
+{
+  "name": "agave_investment_functions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-tools": "^13.3.1"
+  }
+}
